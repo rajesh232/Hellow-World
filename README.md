@@ -1,2 +1,2 @@
 # Hellow-World
-just repositort
+just repository
